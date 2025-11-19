@@ -90,7 +90,7 @@ Gemini-powered assistant answers:
 https://www.linkedin.com/in/francis-afful-gyan
 
 📅 *November 2025*  
-🌐 **Live Demo:** Coming Soon  
+🌐 **Live Demo:** https://renewal-analysis.streamlit.app/  
 📊 **Project Status:** Active Development  
 
 ---
