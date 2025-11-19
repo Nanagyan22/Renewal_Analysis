@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+google-genai
+PyMuPDF
+streamlit
+python-dotenv
+pandas
+openpyxl
+pillow
+plotly
+python-docx
+pymupdf
+google-generativeai
