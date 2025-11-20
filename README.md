@@ -1,4 +1,3 @@
-# 🛡️ OptiSecure Insurance – Policy Renewal Analytics & BI Intelligence Assistant
 ![Header](Header.png)
 
 ## 💡 Overview
