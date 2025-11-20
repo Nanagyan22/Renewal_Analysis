@@ -1,4 +1,5 @@
 # 🛡️ OptiSecure Insurance – Policy Renewal Analytics & BI Intelligence Assistant
+![Header](Header.png)
 
 ## 💡 Overview
 OptiSecure Insurance is an end-to-end analytics solution integrating **Data Science**, **Predictive Modeling**, and **Business Intelligence** to forecast policy renewals, optimize marketing campaigns, and enhance customer lifetime value.  
@@ -84,15 +85,11 @@ Gemini-powered assistant answers:
 
 ## 👨‍💻 Author
 **Francis Afful Gyan**  
-📧 *francisaffulgyan@gmail.com*
+📧 [francisaffulgyan@gmail.com](mailto:francisaffulgyan@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/francis-afful-gyan-2b27a5153/)  
+📅 October 2025  
+🌐 [Live Demo](https://renewal-analysis.streamlit.app/)  
+📊 *Project Status: Active Development*
 
-**LinkedIn:**  
-https://www.linkedin.com/in/francis-afful-gyan
-
-📅 *November 2025*  
-🌐 **Live Demo:** https://renewal-analysis.streamlit.app/  
-📊 **Project Status:** Active Development  
-
----
-
-Thank you for exploring this project!
+## Thank You
+![Thank You](Thankyou1.png)
